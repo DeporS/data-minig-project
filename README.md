@@ -6,6 +6,9 @@ Przewidywanie zwycięzcy turnieju sportowego z wykorzystaniem algorytmów eksplo
 ## Setup
 pip install requirements.txt
 
+## Dataset
+https://www.kaggle.com/code/dissfya/wta-tennis-daily-update
+
 ## Literatura
 https://drpress.org/ojs/index.php/HSET/article/view/19360/23282
 
