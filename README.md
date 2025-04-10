@@ -1,5 +1,8 @@
-# data-minig-project
+# Data minig project
 
-- Temat - Przewidywanie zwycięzcy turnieju sportowego z wykorzystaniem algorytmów eksploracji danych
+## Temat
+Przewidywanie zwycięzcy turnieju sportowego z wykorzystaniem algorytmów eksploracji danych
 
-1. pip install requirements.txt
+## Setup
+pip install requirements.txt
+
