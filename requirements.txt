@@ -1,1 +1,1 @@
-numpy pandas kagglehub
+numpy pandas kagglehub sklearn
